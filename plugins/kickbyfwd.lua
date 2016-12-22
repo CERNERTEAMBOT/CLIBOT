@@ -28,8 +28,7 @@ end
 
 return {
 	patterns = {
-	"^[!#/](kmember)$",
-	"^[!#/](حذف بافوروارد)$",
+	"^[!#/](kickmember)$"
 	},
 	run = run,
 	pre_process = pre_process,
